@@ -11,6 +11,7 @@ public class taxCal {
 		//asdas
 		System.out.println("Hello Boss");
 		amount = amount - 250000;
+		int ll = 0;
 
 		int taxCount = 5;
 		int taxCal = 1;
