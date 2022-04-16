@@ -29,6 +29,10 @@ public class taxCal {
 			amount = amount - amount;
 
 		}
+		
+		if(true){
+			System.out.println("Hello Wors");
+		}
 
 		if (taxSlab == 0 && amount > 0) {
 			totalTax = totalTax + ((amount * 30) / 100);
