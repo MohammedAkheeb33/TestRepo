@@ -9,6 +9,7 @@ public class taxCal {
 		int totalTax = 0;
 		int taxSlab = 5;
 		//asdas
+		System.out.println("Hello Boss");
 		amount = amount - 250000;
 
 		int taxCount = 5;
